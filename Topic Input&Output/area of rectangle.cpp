@@ -9,3 +9,4 @@ int main() {
     cout << "Area of rectangle = " << area << endl;
     return 0;
 }
+  
