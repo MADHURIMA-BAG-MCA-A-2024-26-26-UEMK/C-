@@ -26,3 +26,11 @@
 2. Swap Two Numbers Using Pointers.
 3. Find Maximum of Two Numbers Using Pointers.
 4. Sum of Array Elements Using Pointer.
+
+#  Topic Array
+
+1. Input and Print Array Elements.
+2. Sum of Array Elements.
+3. Find Maximum Element in Array.
+4. Count Even and Odd Numbers in Array. 
+5. Reverse and Display Array
