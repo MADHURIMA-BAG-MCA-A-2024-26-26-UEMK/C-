@@ -1,4 +1,4 @@
-             #  Topic Input&Output
+#  Topic Input&Output
 
 1. Input and Print Name.
 2. Input Two Numbers and Print Their Sum.
